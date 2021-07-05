@@ -25,5 +25,5 @@ Kindly refer the views.py file inside the ml folder for more detials.
 
 click on the link to redirect to the page for demo.
 
-#[https://sabarish.xyz/ml-fruit/](https:// "# https://sabarish.xyz/ml-fruit/")
+# [https://sabarish.xyz/ml-fruit/](https:// "# https://sabarish.xyz/ml-fruit/")
 
